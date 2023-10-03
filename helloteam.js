@@ -5,4 +5,4 @@ const teamNames = [];
     teamNames.push("Eymi");
     teamNames.push("Ryan");
 
-teamNames.forEach((element) => console.log(element));
+teamNames.forEach((element) => console.log("Hello " + element));
